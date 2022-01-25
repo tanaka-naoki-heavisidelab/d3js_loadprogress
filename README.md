@@ -1,3 +1,27 @@
+svelte-app@1.0.0
+├── @rollup/plugin-commonjs@17.1.0
+├── @rollup/plugin-node-resolve@11.2.1
+├── @rollup/plugin-typescript@8.3.0
+├── @tsconfig/svelte@2.0.1
+├── @types/d3@7.1.0
+├── d3@7.3.0
+├── node-sass@7.0.1
+├── pug@3.0.2
+├── rollup-plugin-css-only@3.1.0
+├── rollup-plugin-livereload@2.0.5
+├── rollup-plugin-svelte@7.1.0
+├── rollup-plugin-terser@7.0.2
+├── rollup@2.64.0
+├── sass@1.49.0
+├── sirv-cli@2.0.2
+├── svelte-check@2.3.0
+├── svelte-preprocess@4.10.2
+├── svelte@3.46.2
+├── tslib@2.3.1
+└── typescript@4.5.4
+
+---
+
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
